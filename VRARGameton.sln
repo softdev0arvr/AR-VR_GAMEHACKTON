@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRARGameton", "VRARGameton.csproj", "{12D65D66-05F3-67FA-3BF9-12A0F3674D1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRARGameton.Editor", "VRARGameton.Editor.csproj", "{3D77469B-80D2-CFC4-D3F8-A6684D905286}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12D65D66-05F3-67FA-3BF9-12A0F3674D1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12D65D66-05F3-67FA-3BF9-12A0F3674D1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12D65D66-05F3-67FA-3BF9-12A0F3674D1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12D65D66-05F3-67FA-3BF9-12A0F3674D1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D77469B-80D2-CFC4-D3F8-A6684D905286}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D77469B-80D2-CFC4-D3F8-A6684D905286}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D77469B-80D2-CFC4-D3F8-A6684D905286}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D77469B-80D2-CFC4-D3F8-A6684D905286}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
